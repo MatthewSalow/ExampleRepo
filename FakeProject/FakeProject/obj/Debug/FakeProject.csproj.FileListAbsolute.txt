@@ -1,0 +1,15 @@
+C:\Users\Salow\Documents\GitHub\ExampleRepo\FakeProject\FakeProject\bin\Debug\FakeProject.exe.config
+C:\Users\Salow\Documents\GitHub\ExampleRepo\FakeProject\FakeProject\bin\Debug\FakeProject.exe
+C:\Users\Salow\Documents\GitHub\ExampleRepo\FakeProject\FakeProject\bin\Debug\FakeProject.pdb
+C:\Users\Salow\Documents\GitHub\ExampleRepo\FakeProject\FakeProject\obj\Debug\FakeProject.csprojResolveAssemblyReference.cache
+C:\Users\Salow\Documents\GitHub\ExampleRepo\FakeProject\FakeProject\obj\Debug\MainWindow.g.cs
+C:\Users\Salow\Documents\GitHub\ExampleRepo\FakeProject\FakeProject\obj\Debug\App.g.cs
+C:\Users\Salow\Documents\GitHub\ExampleRepo\FakeProject\FakeProject\obj\Debug\FakeProject_MarkupCompile.cache
+C:\Users\Salow\Documents\GitHub\ExampleRepo\FakeProject\FakeProject\obj\Debug\FakeProject_MarkupCompile.lref
+C:\Users\Salow\Documents\GitHub\ExampleRepo\FakeProject\FakeProject\obj\Debug\MainWindow.baml
+C:\Users\Salow\Documents\GitHub\ExampleRepo\FakeProject\FakeProject\obj\Debug\FakeProject.g.resources
+C:\Users\Salow\Documents\GitHub\ExampleRepo\FakeProject\FakeProject\obj\Debug\FakeProject.Properties.Resources.resources
+C:\Users\Salow\Documents\GitHub\ExampleRepo\FakeProject\FakeProject\obj\Debug\FakeProject.csproj.GenerateResource.Cache
+C:\Users\Salow\Documents\GitHub\ExampleRepo\FakeProject\FakeProject\obj\Debug\FakeProject.csproj.CoreCompileInputs.cache
+C:\Users\Salow\Documents\GitHub\ExampleRepo\FakeProject\FakeProject\obj\Debug\FakeProject.exe
+C:\Users\Salow\Documents\GitHub\ExampleRepo\FakeProject\FakeProject\obj\Debug\FakeProject.pdb
